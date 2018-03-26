@@ -1,4 +1,4 @@
-zoo = input("Rock, paper, scissors")
+game = input("Rock, paper, scissors")
 import random
-foo = ['Rock', 'paper', 'scissors']
-print(random.choice(foo))
+computer = ['Rock', 'paper', 'scissors']
+print(random.choice(computer))
